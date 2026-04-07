@@ -21,7 +21,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/alphadesignstudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_.alpha.17?igsh=MXBvYzZqaG1tMWc2cA%3D%3D&utm_source=qr" target="blank"><img align="center" 
+<a href="https://www.instagram.com/_.alpha.17?igsh=MXBvYzZqaG1tMWc2cA%3D%3D&utm_source=qr" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 
 </p>
 
